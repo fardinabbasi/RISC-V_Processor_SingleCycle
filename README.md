@@ -1,8 +1,24 @@
 <h1> Single Cycle RISC-V Processor </h1>
 
-<h3> R_Type:  add,sub,and,or,slt </h3>
-<h3> I_Type:  lw,addi,xori,ori,slti,jalr </h3>
-<h3> S_Type:  sw </h3>
-<h3> J_Type:  jal </h3>
-<h3> B_Type:  beq,bne,blt,bge </h3>
-<h3> U_Type:  lui </h3>
+Design and implementation of RISC-V processor with a single-cycle datapath and controller.
+
+**Commands**:
+
+```ruby
+R_Type:  add,sub,and,or,slt
+```
+```ruby
+I_Type:  lw,addi,xori,ori,slti,jalr
+```
+```ruby
+S_Type:  sw
+```
+```ruby
+J_Type:  jal
+```
+```ruby
+B_Type:  beq,bne,blt,bge
+```
+```ruby
+U_Type:  lui
+```
