@@ -1,5 +1,5 @@
-<h1> Digital Systems 2 - CA #2 - Spring 2023 - University of Tehran </h1>
-<h2> RISC-V Single Cycle Processor </h2>
+<h1> Single Cycle RISC-V Processor </h1>
+
 <h3> R_Type:  add,sub,and,or,slt </h3>
 <h3> I_Type:  lw,addi,xori,ori,slti,jalr </h3>
 <h3> S_Type:  sw </h3>
